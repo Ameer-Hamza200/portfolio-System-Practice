@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+}
+
+.project{
+    margin-top:31px;
+    background-color: #1976d2;
+    height: 370px;
+}
+
+.project .projectDetails{
+    margin-left: 781px;
+}
